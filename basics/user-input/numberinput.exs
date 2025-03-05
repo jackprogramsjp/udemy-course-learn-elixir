@@ -9,4 +9,4 @@ second_number = String.trim(IO.gets("Enter another number: "))
 num2 = String.to_float(second_number)
 
 # We can now add both numbers
-IO.puts num1 + num2
+IO.puts(num1 + num2)
